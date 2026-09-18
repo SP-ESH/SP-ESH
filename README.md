@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-psi-virid-34.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/shubham-rawat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rawt.shubhm@gmail.com"><img src="https://img.shields.io/badge/Email-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Noida,%20India-333333?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
@@ -15,7 +14,7 @@
 
 ### About
 
-I build AI-powered SaaS products end to end — RAG pipelines, LLM integrations, REST APIs and Next.js interfaces — owning features from database schema to UI.
+I build AI-powered SaaS products end-to-end — RAG pipelines, LLM integrations, REST APIs, and Next.js interfaces — owning features from database schema to UI.
 
 - **Focus areas:** retrieval-augmented generation, real-time collaboration, distributed backends
 - **Working with:** TypeScript, Next.js, Node.js, PostgreSQL, Redis, Kafka, Docker
@@ -75,19 +74,6 @@ I build AI-powered SaaS products end to end — RAG pipelines, LLM integrations,
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SP-ESH&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=3178C6&icon_color=3178C6&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-ESH&layout=compact&hide_border=true&langs_count=8&title_color=3178C6&theme=transparent" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SP-ESH&hide_border=true&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&background=00000000" alt="GitHub streak">
-</p>
-
----
-
 ### Get in Touch
 
 Open to full-stack and frontend roles, and happy to talk about anything involving RAG, real-time systems or Next.js at scale.
@@ -95,5 +81,4 @@ Open to full-stack and frontend roles, and happy to talk about anything involvin
 <p align="left">
   <a href="mailto:rawt.shubhm@gmail.com"><img src="https://img.shields.io/badge/rawt.shubhm@gmail.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/shubham-rawat"><img src="https://img.shields.io/badge/linkedin.com/in/shubham--rawat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-psi-virid-34.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
