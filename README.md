@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-rawat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/shubham--rawat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rawt.shubhm@gmail.com"><img src="https://img.shields.io/badge/Email-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Noida,%20India-333333?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
 </p>
@@ -76,9 +76,9 @@ I build AI-powered SaaS products end-to-end — RAG pipelines, LLM integrations,
 
 ### Get in Touch
 
-Open to full-stack and frontend roles, and happy to talk about anything involving RAG, real-time systems or Next.js at scale.
+Open to full-stack and frontend roles, and happy to talk about anything involving RAG, real-time systems, or Next.js at scale.
 
 <p align="left">
   <a href="mailto:rawt.shubhm@gmail.com"><img src="https://img.shields.io/badge/rawt.shubhm@gmail.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/shubham-rawat"><img src="https://img.shields.io/badge/linkedin.com/in/shubham--rawat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/shubham--rawat"><img src="https://img.shields.io/badge/linkedin.com/in/shubham--rawat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
